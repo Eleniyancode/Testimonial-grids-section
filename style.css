@@ -84,9 +84,6 @@ article > div > p {
     grid-template-areas:
       "aa aa bb ee "
       "cc dd dd ee";
-    max-width: 80%;
-    height: 700px;
-    grid-template-rows: 350px 300px;
     /* border: 2px solid black; */
   }
 
@@ -110,7 +107,7 @@ article > div > p {
   }
 
   .fifth-article > p {
-    line-height: 1.2em;
+    line-height: 1em;
   }
 }
 .attribution {
